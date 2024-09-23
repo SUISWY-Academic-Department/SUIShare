@@ -1,6 +1,6 @@
 # SUIShare
 This is a open-access, experimental resourse sharing platform for Shanghai United International School (SUIS).  
-这是一个为上海市万源城协和双语学校（SUIS）打造的开放式实验性资源共享平台。
+这是一个为上海市万源城协和双语学校（SUIS）打造的开放式、实验性资源共享平台。
 
 ## Resources 资源
 One can either navigate through the directories above or click on one of the following links.  
