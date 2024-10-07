@@ -9,7 +9,7 @@ One can either navigate through the directories above or click on one of the fol
 [Math](https://github.com/Jay-Feng2008/SUIShare/tree/master/Math)     
 [Social Science](https://github.com/Jay-Feng2008/SUIShare/tree/master/Social%20Science)     
 [AP Capstone](https://github.com/Jay-Feng2008/SUIShare/tree/master/AP%20Capstone)     
-[English](https://github.com/Jay-Feng2008/SUIShare/tree/master/English)
+[English](https://github.com/Jay-Feng2008/SUIShare/tree/master/English)    
 [Science](https://github.com/Jay-Feng2008/SUIShare/tree/master/Science)
 
 ### Subjects 学科
