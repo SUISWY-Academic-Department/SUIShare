@@ -23,6 +23,10 @@ One can either navigate through the directories above or click on one of the fol
 [AP Physics C](https://github.com/Jay-Feng2008/SUIShare/tree/master/Science/AP%20Physics%20C)   
 [AP English Language](https://github.com/Jay-Feng2008/SUIShare/tree/master/English/AP%20English%20Language)    
 [AP English Literature](https://github.com/Jay-Feng2008/SUIShare/tree/master/English/AP%20English%20Literature)    
+[AP Biology](https://github.com/Jay-Feng2008/SUIShare/tree/master/Science/AP%20Biology)     
+[AP Environmental Science](https://github.com/Jay-Feng2008/SUIShare/tree/master/Science/AP%20Environmental%20Science)     
+[AP Physics 1](https://github.com/Jay-Feng2008/SUIShare/tree/master/Science/AP%20Physics%201)     
+[AP Physics 2](https://github.com/Jay-Feng2008/SUIShare/tree/master/Science/AP%20Physics%202)      
 
 ## Requests 请求
 Everyone is welcomed to request for an update. One can request for new resources via sending an *issue*.    
