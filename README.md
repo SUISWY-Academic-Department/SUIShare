@@ -19,7 +19,7 @@ One can either navigate through the directories above or click on one of the fol
 [Geometry](https://github.com/Jay-Feng2008/SUIShare/tree/master/Math/Geometry)     
 [Pre-AP Algebra II](https://github.com/Jay-Feng2008/SUIShare/tree/master/Math/Pre-AP%20Algebra%20II)      
 [AP Chemistry](https://github.com/Jay-Feng2008/SUIShare/tree/master/Science/AP%20Chemistry)      
-[World History I](https://github.com/Jay-Feng2008/SUIShare/tree/master/Social%20Science/History/World%20History%20I)     
+[World History I](https://github.com/Jay-Feng2008/SUIShare/tree/master/Social%20Science/World%20History%20I)     
 [AP Physics C](https://github.com/Jay-Feng2008/SUIShare/tree/master/Science/AP%20Physics%20C)   
 [AP English Language](https://github.com/Jay-Feng2008/SUIShare/tree/master/English/AP%20English%20Language)    
 [AP English Literature](https://github.com/Jay-Feng2008/SUIShare/tree/master/English/AP%20English%20Literature)    
@@ -27,6 +27,7 @@ One can either navigate through the directories above or click on one of the fol
 [AP Environmental Science](https://github.com/Jay-Feng2008/SUIShare/tree/master/Science/AP%20Environmental%20Science)     
 [AP Physics 1](https://github.com/Jay-Feng2008/SUIShare/tree/master/Science/AP%20Physics%201)     
 [AP Physics 2](https://github.com/Jay-Feng2008/SUIShare/tree/master/Science/AP%20Physics%202)      
+[AP World History](https://github.com/Jay-Feng2008/SUIShare/tree/master/Social%20Science/AP%20World%20History)      
 
 ## Requests 请求
 Everyone is welcomed to request for an update. One can request for new resources via sending an *issue*.    
