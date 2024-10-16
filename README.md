@@ -28,6 +28,7 @@ One can either navigate through the directories above or click on one of the fol
 [AP Physics 1](https://github.com/Jay-Feng2008/SUIShare/tree/master/Science/AP%20Physics%201)     
 [AP Physics 2](https://github.com/Jay-Feng2008/SUIShare/tree/master/Science/AP%20Physics%202)      
 [AP World History](https://github.com/Jay-Feng2008/SUIShare/tree/master/Social%20Science/AP%20World%20History)      
+[AP Psychology](https://github.com/SUISWY-Academic-Department/SUIShare/tree/master/Social%20Science/AP%20Psychology)
 
 ## Requests 请求
 Everyone is welcomed to request for an update. One can request for new resources via sending an *issue*.    
